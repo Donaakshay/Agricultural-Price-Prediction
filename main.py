@@ -195,7 +195,7 @@ HTML = """
 
     </form>
 
-    {% if latest %}
+    {% if latest is not none %}
 
     <h2>{{ crop }} - {{ market }}</h2>
 
