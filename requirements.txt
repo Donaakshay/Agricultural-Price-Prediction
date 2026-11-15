@@ -1,6 +1,8 @@
-streamlit
+flask
 pandas
 numpy
 plotly
 scikit-learn
 joblib
+requests
+gunicorn
